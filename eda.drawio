@@ -439,10 +439,10 @@
           <mxGeometry x="3" width="42" height="24" as="geometry" />
         </mxCell>
         <mxCell id="HlJlWDIf9FgJhshJzwsw-25" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=light-dark(#4D5766,#F9F9F9);shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;" vertex="1" parent="JdhGhAMHQ2TH8vNOwEMr-1">
-          <mxGeometry x="605" y="283.5" width="88" height="58" as="geometry" />
+          <mxGeometry x="605" y="276" width="97" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="HlJlWDIf9FgJhshJzwsw-26" value="configure &lt;b&gt;Banner &lt;/b&gt;&lt;br&gt;on the nodes &lt;br&gt;labelled with&lt;br&gt;&lt;b&gt;role=spine&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="JdhGhAMHQ2TH8vNOwEMr-1">
-          <mxGeometry x="600" y="276" width="98" height="62" as="geometry" />
+          <mxGeometry x="605" y="272" width="98" height="62" as="geometry" />
         </mxCell>
         <mxCell id="nfZ1EVevmj8JvqIZOnnK-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=6;strokeColor=light-dark(#98A2AE,#EDF3F5);" vertex="1" parent="JdhGhAMHQ2TH8vNOwEMr-1">
           <mxGeometry x="763" y="249.5" width="217" height="250.5" as="geometry" />
