@@ -269,10 +269,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="[1] labels" id="60arwuKbeHstmdhWtU2b">
-    <mxGraphModel dx="567" dy="369" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#E6E6E6" math="0" shadow="0">
+    <mxGraphModel dx="385" dy="251" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="JdhGhAMHQ2TH8vNOwEMr-0" />
         <mxCell id="JdhGhAMHQ2TH8vNOwEMr-1" parent="JdhGhAMHQ2TH8vNOwEMr-0" />
+        <mxCell id="nfZ1EVevmj8JvqIZOnnK-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=6;strokeColor=light-dark(#98A2AE,#EDF3F5);" vertex="1" parent="JdhGhAMHQ2TH8vNOwEMr-1">
+          <mxGeometry x="763" y="249.5" width="217" height="250.5" as="geometry" />
+        </mxCell>
         <mxCell id="JdhGhAMHQ2TH8vNOwEMr-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#99CCFF;strokeWidth=2;fontFamily=Courier New;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JdhGhAMHQ2TH8vNOwEMr-1" source="JdhGhAMHQ2TH8vNOwEMr-16" target="JdhGhAMHQ2TH8vNOwEMr-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="858" y="315" as="sourcePoint" />
@@ -388,7 +391,7 @@
           <mxGeometry x="2" y="8.5" width="9" height="9" as="geometry" />
         </mxCell>
         <mxCell id="HlJlWDIf9FgJhshJzwsw-3" value="spine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontSize=9;" vertex="1" parent="HlJlWDIf9FgJhshJzwsw-7">
-          <mxGeometry x="3" width="42" height="24" as="geometry" />
+          <mxGeometry x="3" y="1" width="42" height="24" as="geometry" />
         </mxCell>
         <mxCell id="HlJlWDIf9FgJhshJzwsw-8" value="" style="group" vertex="1" connectable="0" parent="JdhGhAMHQ2TH8vNOwEMr-1">
           <mxGeometry x="932" y="254" width="41" height="24" as="geometry" />
@@ -400,7 +403,7 @@
           <mxGeometry x="2" y="8.5" width="9" height="9" as="geometry" />
         </mxCell>
         <mxCell id="HlJlWDIf9FgJhshJzwsw-6" value="leaf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontSize=9;" vertex="1" parent="HlJlWDIf9FgJhshJzwsw-8">
-          <mxGeometry x="7" width="34" height="24" as="geometry" />
+          <mxGeometry x="7" y="1" width="34" height="24" as="geometry" />
         </mxCell>
         <mxCell id="HlJlWDIf9FgJhshJzwsw-9" value="" style="group" vertex="1" connectable="0" parent="JdhGhAMHQ2TH8vNOwEMr-1">
           <mxGeometry x="932" y="338" width="41" height="24" as="geometry" />
@@ -412,7 +415,7 @@
           <mxGeometry x="2" y="8.5" width="9" height="9" as="geometry" />
         </mxCell>
         <mxCell id="HlJlWDIf9FgJhshJzwsw-12" value="leaf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontSize=9;" vertex="1" parent="HlJlWDIf9FgJhshJzwsw-9">
-          <mxGeometry x="7" width="34" height="24" as="geometry" />
+          <mxGeometry x="7" y="1" width="34" height="24" as="geometry" />
         </mxCell>
         <mxCell id="HlJlWDIf9FgJhshJzwsw-13" value="" style="group" vertex="1" connectable="0" parent="JdhGhAMHQ2TH8vNOwEMr-1">
           <mxGeometry x="930" y="414" width="41" height="24" as="geometry" />
@@ -424,7 +427,7 @@
           <mxGeometry x="2" y="8.5" width="9" height="9" as="geometry" />
         </mxCell>
         <mxCell id="HlJlWDIf9FgJhshJzwsw-16" value="leaf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontSize=9;" vertex="1" parent="HlJlWDIf9FgJhshJzwsw-13">
-          <mxGeometry x="7" width="34" height="24" as="geometry" />
+          <mxGeometry x="7" y="1" width="34" height="24" as="geometry" />
         </mxCell>
         <mxCell id="HlJlWDIf9FgJhshJzwsw-17" value="" style="group" vertex="1" connectable="0" parent="JdhGhAMHQ2TH8vNOwEMr-1">
           <mxGeometry x="832" y="412" width="45" height="24" as="geometry" />
@@ -436,16 +439,13 @@
           <mxGeometry x="2" y="8.5" width="9" height="9" as="geometry" />
         </mxCell>
         <mxCell id="HlJlWDIf9FgJhshJzwsw-20" value="spine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontSize=9;" vertex="1" parent="HlJlWDIf9FgJhshJzwsw-17">
-          <mxGeometry x="3" width="42" height="24" as="geometry" />
+          <mxGeometry x="3" y="1" width="42" height="24" as="geometry" />
         </mxCell>
         <mxCell id="HlJlWDIf9FgJhshJzwsw-25" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=light-dark(#4D5766,#F9F9F9);shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;" vertex="1" parent="JdhGhAMHQ2TH8vNOwEMr-1">
           <mxGeometry x="605" y="276" width="97" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="HlJlWDIf9FgJhshJzwsw-26" value="configure &lt;b&gt;Banner &lt;/b&gt;&lt;br&gt;on the nodes &lt;br&gt;labelled with&lt;br&gt;&lt;b&gt;role=spine&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="JdhGhAMHQ2TH8vNOwEMr-1">
           <mxGeometry x="605" y="272" width="98" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="nfZ1EVevmj8JvqIZOnnK-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=6;strokeColor=light-dark(#98A2AE,#EDF3F5);" vertex="1" parent="JdhGhAMHQ2TH8vNOwEMr-1">
-          <mxGeometry x="763" y="249.5" width="217" height="250.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
